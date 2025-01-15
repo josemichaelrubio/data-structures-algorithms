@@ -19,3 +19,17 @@
 <https://www.jobscan.co/blog/ats-resume/>
 
 <https://www.jobscan.co/resume-templates>
+
+<https://github.com/zero-to-mastery/ZtM-Job-Board>
+
+## Portfolio Templates
+
+<https://html5up.net/>
+
+<https://www.free-css.com/template-categories/portfolio>
+
+<https://cruip.com/free-templates/>
+
+<https://mdbootstrap.com/freebies/>
+
+<https://creative-tim.com/bootstrap-themes/free>
