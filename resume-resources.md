@@ -1,4 +1,6 @@
-# Resume Resources
+# Getting More Interview: Resources
+
+## Resume
 
 <https://www.resumemaker.online/>
 
@@ -33,3 +35,26 @@
 <https://mdbootstrap.com/freebies/>
 
 <https://creative-tim.com/bootstrap-themes/free>
+
+<https://www.awwwards.com/websites/portfolio/>
+
+## Email Stuff
+
+<https://chromewebstore.google.com/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj?hl=en>
+
+<https://chromewebstore.google.com/detail/email-finder-by-contactou/jjdemeiffadmmjhkbbpglgnlgeafomjo?hl=en>
+
+<https://chromewebstore.google.com/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en>
+
+### Sample Email
+
+Hey $BOB,
+I saw your presentation at $CONFERENCE last year on Youtube (rr point to some work they have done).
+Great stuff; loved what you did with $FOO, in particular
+$COMMENT_PROVING_YOU_KNOW_WHAT_YOU'RE_TALKING_ABOUT.
+I'm also a $FOO developer. I noticed that your company is hiring
+or $ROLE. I’d love to be a part of your team. Do you have a
+few minutes to chat on Thursday about what you guys are doing?
+Thanks,
+Yourname
+Your website or any public profile link
