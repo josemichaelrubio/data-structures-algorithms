@@ -1,0 +1,11 @@
+name: d-s-a
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.7
+  - ipykernel
+  - jupyter
+  - nodejs
