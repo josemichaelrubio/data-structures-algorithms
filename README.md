@@ -39,6 +39,18 @@ This project uses a conda environment. Follow these steps to set up your develop
 
 ### [00-Intro/](./notebooks/00-Intro/)
 
-[Notebooks/00-Intro/resources.md](./notebooks/00-Intro/resources.md)
+[Resources](./notebooks/00-Intro/resources.md)
 
 - Contains links for help on resume, portfolio, email, and job search
+
+### [01-Big-O/](notebooks/01-Big-O)
+
+[Big-O Cheatsheet](notebooks/01-Big-O/BigO-cheat-sheet+(1).pdf)
+
+- Under what makes a solution good: Big-O
+
+### [02-How-to-Solve-Coding-Problems/](notebooks/02-How-to-Solve-Coding-Problems)
+
+[Interview CheatSheet](notebooks/02-How-to-Solve-Coding-Problems/Interview-cheatsheet.pdf)
+
+- Interview Questions and stuff
